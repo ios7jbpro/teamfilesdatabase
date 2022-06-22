@@ -3,22 +3,10 @@
 {
     "Name": "Lawnchair Launcher 12L",
     "Desc": "Lawnchair with out custom LawnIcons",
-    "Size": "MB",
-    "Version": "",
     "Icon": "https://raw.githubusercontent.com/ios7jbpro/teamfilesdatabase/main/store/lawnchair.jpg",
-    "Link": "",
-    "Author": "",
-    "SS1": "",
-    "SS2": "",
-    "SS3": "",
-    "SS4": "",
-    "SS5": "",
-    "SS6": "",
-    "SS7": "",
-    "SS8": "",
-    "containsource": "",
     "icon_visible": "true",
-    "sourcelink": "",
-    "Type": "App"
+    "Type": "Module",
+    "downloadlink": "",
+    "documentationlink": ""
   }
 ]
